@@ -1,0 +1,6 @@
+env/
+.env
+logistic/__pycache__/
+logistic/migrations/
+stocks_products/__pycache__/
+netology_crud_sds
